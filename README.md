@@ -9,7 +9,6 @@ Analyze Vrinda Store's 2022 annual sales data to uncover trends in revenue, cust
 - **Microsoft Excel**
 - Pivot Tables
 - Charts & Visualizations
-- VLOOKUP / XLOOKUP
 - Conditional Formatting
 - Data Slicers & Filters
 
