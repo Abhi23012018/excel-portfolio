@@ -19,8 +19,8 @@ Analyze Vrinda Store's 2022 annual sales data to uncover trends in revenue, cust
 |---|---|
 | Source | Vrinda Store Internal Sales Data |
 | Year | 2022 (Full Year) |
-| Total Records | 31,047 orders |
-| Total Revenue | ₹2,11,76,377 |
+| Data rows | 31,047 records; some Order IDs occur on multiple rows |
+| Distinct Order IDs | 28,471; repeated IDs need row-grain validation |\n| Recorded amount, all statuses | ₹2,11,76,377; includes Delivered, Returned, Cancelled and Refunded rows |\n| Recorded amount, Delivered rows | ₹1,97,10,544; status-filtered amount, not verified net revenue |
 | Columns | Order ID, Customer ID, Gender, Age, Date, Month, Status, Channel, Category, Size, Amount, Ship State, and more |
 
 ---
